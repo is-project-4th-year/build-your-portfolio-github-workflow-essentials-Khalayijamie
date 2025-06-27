@@ -60,7 +60,7 @@ Learning how to deploy with GitHub Pages gave me a live preview of my portfolio 
 ### B. Project Board
 
 ```markdown
- ![Caption](project board.png)
+ (project board.png)
 ```
 ### C. Branching
 
