@@ -55,7 +55,9 @@ Learning how to deploy with GitHub Pages gave me a live preview of my portfolio 
 
 ### A. Milestones and Issues
 
-- Screenshots/Milestones and Issues/milestone and issues.png
+```markdown
+![A screenshot of the milestones and the related issues](Screenshots/Milestones and Issues/milestone and issues.png)
+```
 
 ### B. Project Board
 
