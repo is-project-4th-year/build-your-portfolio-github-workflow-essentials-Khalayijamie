@@ -9,7 +9,7 @@
 ## 2. Deployed Portfolio Link
 
 - **GitHub Pages URL**:  
-  _(Provide the live link to your deployed portfolio website)_
+https://is-project-4th-year.github.io/build-your-portfolio-github-workflow-essentials-Khalayijamie/
 ## 3. Learnings from the Git Crash Program
 
 Below are four key Git concepts I learned during the crash course and how they helped me manage my portfolio project more effectively:
@@ -40,7 +40,7 @@ Creating issues and using a GitHub project board helped me break the project int
 
 ---
 
-### 5. **GitHub Pages Deployment** *(Bonus)*
+### 5. **GitHub Pages Deployment** 
 
 Learning how to deploy with GitHub Pages gave me a live preview of my portfolio website. This helped me test each feature after merging and allowed me to confidently present a working version of my project online.
 
@@ -60,16 +60,20 @@ Learning how to deploy with GitHub Pages gave me a live preview of my portfolio 
 ### B. Project Board
 
 ```markdown
- (project board.png)
+ ![A screenshot of the project board](project board.png)
 ```
 ### C. Branching
 
-- Screenshot showing your branch list with meaningful naming.
-
+```markdown
+ ![A screenshot of the branches, and the naming](branches.png)
+```
 ### D. Pull Requests
 
-- Screenshot of a pull request that’s either open or merged and linked to a related issue.
-
+```markdown
+ ![A screenshot of the pull requests](pr.png)
+```
 ### E. Merge Conflict Resolution
 
-- Screenshot of a resolved merge conflict (in a pull request, commit history, or your local terminal/GitHub Desktop).
+```markdown
+ ![A screenshot of the Resolved Merged conflict](Screenshot 2025-06-27 232714.png)
+```
