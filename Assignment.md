@@ -59,7 +59,9 @@ Learning how to deploy with GitHub Pages gave me a live preview of my portfolio 
 
 ### B. Project Board
 
-- ![Caption](project board.png)
+```markdown
+ ![Caption](project board.png)
+```
 ### C. Branching
 
 - Screenshot showing your branch list with meaningful naming.
