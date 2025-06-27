@@ -2,30 +2,52 @@
 
 ## 1. Student Details
 
-- **Full Name**:
-- **GitHub Username**:
-- **Email**:
+- **Jamie Khalayi Nangulu**:
+- **KhalayiJamie**:
+- **Jamie.khalayi@gmail.com**:
 
 ## 2. Deployed Portfolio Link
 
 - **GitHub Pages URL**:  
-  _(Provide the live link to your deployed portfolio website)_
-
+https://is-project-4th-year.github.io/build-your-portfolio-github-workflow-essentials-Khalayijamie/
 ## 3. Learnings from the Git Crash Program
 
-List at least **four key concepts or skills** you learned during the Git crash course. For each one, write a brief explanation of how it helped you manage your portfolio project more effectively.
+Below are four key Git concepts I learned during the crash course and how they helped me manage my portfolio project more effectively:
 
-Example format:
+---
 
-- **Branching**: Helped me separate features and prevent conflicts when working on different sections of the site.
-- _(Continue with other concepts…)_
+### 1. **Branching**
+
+Branching helped me separate features like the navbar, hero section, and contact form into isolated environments. This allowed me to work on one section at a time without interfering with the main codebase, reducing bugs and merge conflicts.
+
+---
+
+### 2. **Pull Requests (PRs)**
+
+Using pull requests allowed me to review my changes before merging them into the `main` branch. It also gave me a structured way to document what each feature or fix was about, ensuring my repository stayed organized and easy to understand.
+
+---
+
+### 3. **Commit Conventions**
+
+Structured commit messages (e.g., `feat(navbar): add responsive navigation`) helped me clearly describe what each change did. This made it easier to track progress, especially when linking commits to specific issues or features on my project board.
+
+---
+
+### 4. **Project Boards and Issues**
+
+Creating issues and using a GitHub project board helped me break the project into manageable tasks. I could track what was “To Do”, “In Progress”, or “Done”, which gave me a clear overview of my development process and helped me stay organized.
+
+---
+
+### 5. **GitHub Pages Deployment** 
+
+Learning how to deploy with GitHub Pages gave me a live preview of my portfolio website. This helped me test each feature after merging and allowed me to confidently present a working version of my project online.
+
 
 ## 4. Screenshots of Key GitHub Features
 
-Include screenshots that demonstrate how you used GitHub to manage your project. For each screenshot, write a short caption explaining what it shows.
 
-> Upload the screenshots to your GitHub repository and reference them here using Markdown image syntax:
-> (you could just simply copy and paste the image into the Assignment.md)
 
 ```markdown
 ![Caption](path/to/your/image.png)
@@ -33,20 +55,27 @@ Include screenshots that demonstrate how you used GitHub to manage your project.
 
 ### A. Milestones and Issues
 
-- Screenshot showing your milestone(s) and the issues linked to it.
+```markdown
+![A screenshot of the milestones and the related issues](Screenshots/Milestones and Issues/milestone and issues.png)
+```
 
 ### B. Project Board
 
-- Screenshot of your GitHub Project Board with issues organized into columns (e.g., To Do, In Progress, Done).
-
+```markdown
+ ![A screenshot of the project board](project board.png)
+```
 ### C. Branching
 
-- Screenshot showing your branch list with meaningful naming.
-
+```markdown
+ ![A screenshot of the branches, and the naming](branches.png)
+```
 ### D. Pull Requests
 
-- Screenshot of a pull request that’s either open or merged and linked to a related issue.
-
+```markdown
+ ![A screenshot of the pull requests](pr.png)
+```
 ### E. Merge Conflict Resolution
 
-- Screenshot of a resolved merge conflict (in a pull request, commit history, or your local terminal/GitHub Desktop).
+```markdown
+ ![A screenshot of the Resolved Merged conflict](Screenshot 2025-06-27 232714.png)
+```
