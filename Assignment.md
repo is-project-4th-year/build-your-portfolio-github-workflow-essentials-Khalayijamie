@@ -2,9 +2,9 @@
 
 ## 1. Student Details
 
-- **Full Name**:
-- **GitHub Username**:
-- **Email**:
+- **Jamie Khalayi Nangulu**:
+- **KhalayiJamie**:
+- **Jamie.khalayi@gmail.com**:
 
 ## 2. Deployed Portfolio Link
 
